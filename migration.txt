@@ -1,0 +1,8 @@
+#Package
+npm install node-pg-migrate
+
+# Create table 'notes'
+npm run migrate create "create table notes"
+
+# Run migration
+npm run migrate up

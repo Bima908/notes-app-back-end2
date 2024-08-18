@@ -18,6 +18,7 @@
         "no-shadow":"off",
         "no-trailing-spaces":"off",
         "eslint-plugin-import/no-extraneous-dependencies":"off",
-        "no-unused-vars":"warn"
+        "no-unused-vars":"warn",
+        "camelcase":"off"
     }
 }
